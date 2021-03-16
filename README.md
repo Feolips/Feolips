@@ -10,6 +10,9 @@
 - 😄 Pronouns: Mr. Lord of the Universe 😅
 - ⚡ Fun fact: My dog is more fitness than me
 
+----
+
+![visitantes](https://komarev.com/ghpvc/?username=Feolips&color=529e5e)
 <!--
 **Feolips/Feolips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
