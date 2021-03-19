@@ -10,6 +10,7 @@
 - 😄 Pronouns: Mr. Lord of the Universe 😅
 - ⚡ Fun fact: My dog is more fitness than me
 
+[![Feolips's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feolips)](https://github.com/anuraghazra/github-readme-stats)
 ----
 
 ![visitantes](https://komarev.com/ghpvc/?username=Feolips&color=529e5e)
