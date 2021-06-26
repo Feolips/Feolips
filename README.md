@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently studying on Instituto Federal de Sergipe, Brazil
+- 🔭 I’m currently studying at Instituto Federal de Sergipe, Brazil
 - 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with jumping on this moving train that IT is all about 
